@@ -19,5 +19,4 @@ jobs:
       with:
         server: ftp.energetus.com.pt
         username: energetu
-        server-dir: /public_html/
         password: sWS2f65DoptoXbaW3f
