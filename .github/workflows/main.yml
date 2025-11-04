@@ -20,3 +20,5 @@ jobs:
         server: ftp.energetus.com.pt
         username: energetu
         password: sWS2f65DoptoXbaW3f
+        protocol: ftps
+        passive: true
